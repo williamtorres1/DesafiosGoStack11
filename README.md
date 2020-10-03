@@ -14,18 +14,18 @@ Afim de diminuir o espaço do repositório principal
 ## Módulo 2
 
 - [NodeJS](https://github.com/williamtorres1/nodejs-fundamentos) - Fundamentos NodeJS
-- [NodeJS]() - Database upload
+- [NodeJS](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-database-upload) - Database upload
 
 ## Módulo 3
 
-- [ReactJS]() - Fundamentos ReactJS
-- [ReactNative]() - Fundamentos ReactNative
+- [ReactJS](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs) - Fundamentos ReactJS
+- [ReactNative](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native) - Fundamentos ReactNative
 
 ## Módulo 4
 
-- [NodeJS]() - Database Relations
+- [NodeJS](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-database-relations) - Database Relations
 
 ## Módulo 5
 
-- [ReactJS]() - GoRestaurant Web
-- [ReactNative]() - GoRestaurant Mobile
+- [ReactJS](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-reactjs-crud) - GoRestaurant Web
+- [ReactNative](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-react-native-delivery) - GoRestaurant Mobile
